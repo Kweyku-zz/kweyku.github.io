@@ -27,7 +27,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 
 .backcover {
     height: 612px;
-    background-image: url('../img/iphone.jpeg');
+    background-image: url('./iphone.jpeg');
 }
 
 .navbar-light .navbar-brand {
